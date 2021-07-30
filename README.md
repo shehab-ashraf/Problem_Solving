@@ -23,3 +23,5 @@
 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](https://github.com/shehab-ashraf/Problem_Solving/blob/master/Solutions/Linked%20List%20Cycle%20II.cpp) | Medium|
 | [3Sum](https://leetcode.com/problems/3sum/) | [C++](https://github.com/shehab-ashraf/Problem_Solving/blob/master/Solutions/3Sum.cpp) |Medium|
 |[ Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [C++](https://github.com/shehab-ashraf/Problem_Solving/blob/master/Solutions/%20Next%20Greater%20Node%20In%20Linked%20List.cpp) |Medium|
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](https://github.com/shehab-ashraf/Problem_Solving/blob/master/Solutions/Valid%20Parentheses.cpp) |Easy|
+|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [C++](https://github.com/shehab-ashraf/Problem_Solving/blob/master/Solutions/Next%20Greater%20Element%20II.cpp) |Medium|
