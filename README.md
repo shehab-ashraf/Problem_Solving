@@ -21,3 +21,4 @@
 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [C++](https://github.com/shehab-ashraf/Problem_Solving/blob/master/Solutions/Add%20Two%20Numbers%20II.cpp) | Medium|
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |[C++](https://github.com/shehab-ashraf/Problem_Solving/blob/master/Solutions/Linked%20List%20Cycle.cpp)| Easy|
 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](https://github.com/shehab-ashraf/Problem_Solving/blob/master/Solutions/Linked%20List%20Cycle%20II.cpp) | Medium|
+| [3Sum](https://leetcode.com/problems/3sum/) | [C++](https://github.com/shehab-ashraf/Problem_Solving/blob/master/Solutions/3Sum.cpp) |Medium|
